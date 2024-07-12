@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u82B3\u8CC0\u7409\u5049(zeal23310116)\\kasu\\WindowsFormsApp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62B4C78C-28D4-498F-80B9-D68E8ED77F9E}|WindowsFormsApp6\\not API.csproj|c:\\users\\\u82B3\u8CC0\u7409\u5049(zeal23310116)\\kasu\\windowsformsapp6\\windowsformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B4C78C-28D4-498F-80B9-D68E8ED77F9E}|WindowsFormsApp6\\not API.csproj|solutionrelative:windowsformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B4C78C-28D4-498F-80B9-D68E8ED77F9E}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\\u82B3\u8CC0\u7409\u5049(zeal23310116)\\kasu\\WindowsFormsApp6\\windowsformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62B4C78C-28D4-498F-80B9-D68E8ED77F9E}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B4C78C-28D4-498F-80B9-D68E8ED77F9E}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\\u82B3\u8CC0\u7409\u5049(zeal23310116)\\kasu\\WindowsFormsApp6\\windowsformsapp6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B4C78C-28D4-498F-80B9-D68E8ED77F9E}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u82B3\u8CC0\u7409\u5049(zeal23310116)\\kasu\\WindowsFormsApp6\\WindowsFormsApp6\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\\u82B3\u8CC0\u7409\u5049(zeal23310116)\\kasu\\WindowsFormsApp6\\WindowsFormsApp6\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\Form1.Designer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwC8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:38:07.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u82B3\u8CC0\u7409\u5049(zeal23310116)\\kasu\\WindowsFormsApp6\\WindowsFormsApp6\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u82B3\u8CC0\u7409\u5049(zeal23310116)\\kasu\\WindowsFormsApp6\\WindowsFormsApp6\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:38:00.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\\u82B3\u8CC0\u7409\u5049(zeal23310116)\\kasu\\WindowsFormsApp6\\WindowsFormsApp6\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u82B3\u8CC0\u7409\u5049(zeal23310116)\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "..\\..\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:36:55.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
