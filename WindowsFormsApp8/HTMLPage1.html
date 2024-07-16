@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Azure Maps</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <link rel="stylesheet" href="https://atlas.microsoft.com/sdk/css/atlas.min.css?api-version=2.0">
+    <script src="https://atlas.microsoft.com/sdk/js/atlas.min.js?api-version=2.0"></script>
+    <style>
+        html, body, #map {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <script>
+        var map;
+
+        function GetMap() {
+            map = new atlas.Map('map', {
+                center: [0, 0],
+                zoom: 2,
+                view: 'Auto',
+                authOptions: {
+                    authType: 'subscriptionKey',
+                    subscriptionKey: 'AIzaSyBxbmsffMgblAR26tM26UbkO3o-vodxfvo'  // ここにあなたのAPIキーを設定してください
+                }
+            });
+
+            map.events.add('ready', function () {
+                map.controls.add(new atlas.control.ZoomControl(), {
+                    position: 'top-right'
+                });
+            });
+        }
+
+        function addPin(latitude, longitude) {
+            var pin = new atlas.HtmlMarker({
+                color: 'DodgerBlue',
+                text: '1',
+                position: [longitude, latitude]
+            });
+
+            map.markers.add(pin);
+            map.setCamera({ center: [longitude, latitude], zoom: 15 });
+        }
+
+        window.onload = GetMap;
+    </script>
+</body>
+</html>
